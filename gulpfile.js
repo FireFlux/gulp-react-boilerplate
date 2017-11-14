@@ -32,6 +32,7 @@ const PATH_SRC = 'src/',
     PATH_DEV = 'dev/',
     PATH_DIST = 'dist/';
 
+// Connect Options
 let connectServerOptions = {
     root: '',
     host: 'localhost',
