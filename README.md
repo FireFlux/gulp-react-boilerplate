@@ -7,6 +7,7 @@ Boilerplate for React projects.
 - Webpack
 - React
 - Redux
+- Babel for ES6
 
 ## Installation
 
