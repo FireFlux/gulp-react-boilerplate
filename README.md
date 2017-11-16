@@ -3,11 +3,11 @@ Boilerplate for React projects.
 
 ## Main Technologies
 
-- Gulp
-- Webpack
-- React
-- Redux
-- Babel for ES6
+- [Gulp](https://gulpjs.com/)
+- [Webpack](https://webpack.js.org/)
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Babel for ES6](https://babeljs.io/)
 
 ## Installation
 
@@ -15,10 +15,11 @@ Clone the repo and run:
 ```javascript
 npm install
 ```
+If not done yet, install the [gulp cli](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) to run gulp tasks.
 
 ## Gulp and Webpack options
 
-Every gulp and webpack related tasks and options can be found in gulpfile.js. 
+Every gulp and webpack related task and option can be found in gulpfile.js. 
 
 ## Gulp Tasks
 
