@@ -19,7 +19,7 @@ If not done yet, install the [gulp cli](https://github.com/gulpjs/gulp/blob/mast
 
 ## Gulp and Webpack options
 
-Every gulp and webpack related task and option can be found in gulpfile.js. 
+Every gulp and webpack related task and option can be found in gulpfile.js.
 
 ## Gulp Tasks
 
@@ -48,6 +48,3 @@ Generated development files.
 
 ### /dist
 Generated production files.
-
-
-More info comming soon...
